@@ -4,7 +4,7 @@ This is done as a course project of MM 209 by
 * 200110040 - Gauri Baheti
 * 200110054 - Kartik Laddha
 
-under Professor Nurni N Vishwanathan
+under Professor Nurni N Vishwanathan & Aswani Yella
 <hr>
 
 The procedure of calculations have been explained in the report. This README contains steps to run the code.
